@@ -24,7 +24,7 @@ Devem ser utilizadas as seguintes tecnologias :
 * Qualquer tecnologia ou padrão complementar as citadas anteriormente são permitidas com as devidas justificativas no README.
 
 # A Prova
-## Crie um Open Banking Application e uma API em NestJS, tema é livre!
+## Crie um Open Banking Application e uma API em NestJS, C# ou NodeJS, tema é livre!
 
 API: Criar metodos: GET, POST, PUT e DELETE
 
