@@ -1,4 +1,4 @@
-# O trabalho por aqui na TGT Digital
+# O trabalho por aqui
 
 Que tal fazer parte de um time com atitude? Participar de uma das maiores disrupções no mercado? Ter a oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
